@@ -6,3 +6,10 @@
 * Gestão 
 * Hardware
 * Software
+
+## Líderes de Gestão
+
+## Líderes de Hardware
+
+## Líderes de Software
+
