@@ -1,6 +1,12 @@
 # GIM
 ## Repositório de Contribuições do Grupo de Integração Maker 
 
+### Professores Orientadores
+* Orivaldo Santana
+* Rummenigge Dantas
+* Igor Rosberg
+* Aquiles Burlmaqui
+
 ### Lista de Frentes de Trabalho
 
 * Gestão 
