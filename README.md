@@ -12,14 +12,9 @@ O GIM surge dentro do contexto dos laboratorios Natalnet, sediado no LAR(Laborat
 
 ### Lista de Frentes de Trabalho
 
-* Hardware
-* Software embarcado
-
-
-## Líderes de Hardware
-* João Matheus[@Jmathbr](https://github.com/Jmathbr)
-
-
-## Líderes de Software Embarcado
-* Luiz Felipe Santana [@luizfelipelemon](https://github.com/LuizFelipeLemon)
+* Arduino - Kaike Castro e Brenda Calado
+* GitHub - Angelo Marcelino
+* Impresso 3d - Gabriel Vantuil e João Matheus
+* Introdução a Robótica - Luiz Felipe
+* Prototipagem - Kaike Castro e Gabrielly Dantas
 
